@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Integrated Solutions is a simply audocious concept: A company which strives to succeed by virtue. Our competetive advantage is that we take pride in our work. While we have specific experience in the healthcare and telecommunications industries we're purists and as such ready to tacle technical challenges in any setting. Just as a rose by any other name would smell as sweet, a bucket of transistors will segfault the same in a mainframe or operating an automobile on the freeway.
+Integrated Solutions is a simply audocious concept: A company which strives to succeed by virtue. Our competetive advantage is that we take pride in our work. While we have specific experience in the healthcare and telecommunications industries we're purists and as such ready to tacle technical challenges in any setting. To the pure, all things are pure. Just as a rose by any other name would smell as sweet, a bucket of transistors will segfault the same in a mainframe, the cloud, or as part of an automobile speeding down the freeway.
 
-We're not your typical consulting firm or solutions provider, buy an appointment to learn more, or just skip the consulting and start playing with a self-service basic plan.
+We're not your typical consulting firm or solutions provider, [buy some time to speak with an expert](https://link.waveapps.com/rn8j9w-jh4qyj), or just skip the consulting and start playing with a [self-service package](https://link.waveapps.com/5uv7c7-yftq6g).
