@@ -1,5 +1,4 @@
 ---
-title: Landing Page
-layout: landing
+title: Integrated Solutions
+layout: home
 ---
-{{ content }}
