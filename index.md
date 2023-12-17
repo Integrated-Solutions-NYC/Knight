@@ -1,6 +1,6 @@
 ---
 title: Integrated Solutions
-layout: home
+layout: landing
 ---
 
 {{ content }}
