@@ -1,6 +1,4 @@
 ---
 title: Integrated Solutions
-layout: home
+layout: default
 ---
-
-{{ content }}
